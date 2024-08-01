@@ -1,0 +1,58 @@
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+main{
+    padding: 30px;
+}
+section{
+    background-color: rgb(255, 255, 255);
+    color: rgb(12, 0, 0);
+    
+   
+}
+#bio{
+    margin-left: 180px;
+    color: rgb(0, 0, 0);
+}
+section img{
+    border-radius: 100%;
+    margin-left: 150px;
+}
+section h1{
+    margin-left: 20px;
+    padding: 10px;
+
+}
+section p{
+    width: 600px;
+    margin-left: 150px;
+ 
+    
+}
+#filmes{
+    background-color: hsl(183, 77%, 85%);
+    font-size: large;
+    height: 180px;
+    
+}
+
+#musicas{
+    background-color: #BAF3F6;
+    font-size: large;
+    height: 180px;
+}
+
+footer{
+    background-color: #D9D9D9;
+    ;
+    height: 50px;
+    padding: 10px;
+    font-size: medium;
+
+}
+footer p{
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
